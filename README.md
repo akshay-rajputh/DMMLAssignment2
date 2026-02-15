@@ -68,4 +68,6 @@ project-folder/
 2. Run Streamlit app:  
    `streamlit run app.py`
 
-3. Deploy: Push to GitHub and deploy on [Streamlit Community Cloud](https://streamlit.io/cloud) with `app.py` as main file.
+3.
+## Deployed Link : https://mlassignment2-cqmcjmk4whfeq4aw3asbrg.streamlit.app/
+
